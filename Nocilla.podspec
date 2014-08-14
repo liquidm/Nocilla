@@ -25,7 +25,8 @@ Pod::Spec.new do |s|
     'Nocilla/Categories/NSData+Nocilla.h',
     'Nocilla/Hooks/LSHTTPClientHook.h',
     'Nocilla/Hooks/ASIHTTPRequest/LSASIHTTPRequestHook.h',
-    'Nocilla/Stubs/LSStubResponse.h']
+    'Nocilla/Stubs/LSStubResponse.h',
+    'Nocilla/Model/LSHTTPResponse.h]
 
   s.requires_arc = true
   s.frameworks = 'CFNetwork'
