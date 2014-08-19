@@ -25,6 +25,7 @@ Pod::Spec.new do |s|
     'Nocilla/Categories/NSData+Nocilla.h',
     'Nocilla/Hooks/LSHTTPClientHook.h',
     'Nocilla/Hooks/ASIHTTPRequest/LSASIHTTPRequestHook.h',
+    'Nocilla/Hooks/NSURLRequest/LSNSURLHook.h',
     'Nocilla/Stubs/LSStubResponse.h',
     'Nocilla/Model/LSHTTPResponse.h']
 
